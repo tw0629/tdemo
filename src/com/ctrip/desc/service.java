@@ -8,6 +8,7 @@ public class service {
           System.out.println("2:UIOP");
           System.out.println("2:2455");
           
+          System.out.println("1: qwer");
 	}
-
+   
 }
